@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since February, 2024<br>📫 How to reach me: shahriarislam0077@gmail.com<br>📚 I'm currently learning JavaScript
+<p align="left">✨ Creating bugs since February, 2024<br>📫 Contact me via shahriarislam0077@gmail.com<br>📚 I'm currently learning JavaScript
 
 ###
 
