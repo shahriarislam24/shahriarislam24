@@ -1,8 +1,8 @@
-<h1 align="left">less is More</h1>
+<h1 align="left">creating a legacy to be discovere.</h1>
 
 ###
 
-<p align="left">Creative based in Dhaka.</p>
+<p align="left">creative based in dhaka.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h5 align="left">Languages and Tools</h5>
 
 ###
 
