@@ -1,8 +1,9 @@
-<h1 align="left">creating a legacy to be discovere.</h1>
+<h1 align="left">creating a legacy to be discovered</h1>
 
 ###
 
 <p align="left">creative based in dhaka.</p>
+<a align="left href="https://www.instagram.com/shahriarr1slam/"><button>instagram</button></a>
 
 ###
 
