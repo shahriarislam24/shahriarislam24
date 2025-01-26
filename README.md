@@ -1,12 +1,10 @@
-<h1 align="left">Hey there!!</h1>
+<h1 align="left">less is More</h1>
 
 ###
 
 <p align="left">Creative based in Dhaka.</p>
 
 ###
-
-<h2 align="left">About me</h2>
 
 ###
 
@@ -27,7 +25,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="adobe illustrator logo" />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png](https://www.svgrepo.com/show/376344/python.svg)" height="40" alt="python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="fig" />
   <img width="12" />
 </div>
 
