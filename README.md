@@ -3,9 +3,9 @@
 ###
 
 <p align="left">creative based in dhaka.</p>
-<a href="https://www.instagram.com/shahriarr1slam/" target=”_blank”>instagram</a>
-<a href="https://www.linkedin.com/in/shahriarislam24/" target=”_blank”>linkedin</a>
-<a href="(https://www.behance.net/shahriarr1slam" target=”_blank”>behance</a>
+<a href="https://www.instagram.com/shahriarr1slam/" target=”_blank”>instagram</a></br>
+<a href="https://www.linkedin.com/in/shahriarislam24/" target=”_blank”>linkedin</a></br>
+<a href="https://www.behance.net/shahriarr1slam" target=”_blank”>behance</a>
 
 ###
 
