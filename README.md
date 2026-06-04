@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" height="40" alt="adobe illustrator logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="adobe illustrator logo" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.pn" height="40" alt="adobe photshop logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" height="40" alt="python" />
   <img width="12" />
